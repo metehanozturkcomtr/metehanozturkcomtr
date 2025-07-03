@@ -47,6 +47,7 @@ Hi, I'm **Metehan Öztürk**, a passionate **Vibe Coder**.
     </span>
 
 </div>
+
 ## 🧠 Skills
 
 ### Languages
