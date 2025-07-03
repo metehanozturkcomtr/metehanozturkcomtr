@@ -132,11 +132,11 @@ With the widget and notification bar control designed for quick access, your vol
 
 ![Profile Views](https://komarev.com/ghpvc/?username=metehanozturkcomtr&label=Profile%20views&color=0e75b6&style=flat)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=metehanozturkcomtr&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=metehanozturkcomtr&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=metehanozturkcomtr&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=metehanozturkcomtr&layout=compact&theme=radical)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=metehanozturkcomtr&theme=flat)
+![Trophies](https://github-profile-trophy.vercel.app/?username=metehanozturkcomtr&theme=radical)
 
 ## 🏷️ Badges
 
