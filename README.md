@@ -29,6 +29,8 @@ I am a "vibe coder" and the founder of Göktürk Ajans. I focus on building full
 
 ### Volume Booster - by MTHN
 
+<img src="https://github.com/metehanozturkcomtr/volumebooster/blob/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" alt="Volume Booster - by MTHN" width="300"/>
+
 A React Native Android app which allows you to increase the perceived audio output beyond the default system limits.
 
 [View Project](https://github.com/metehanozturkcomtr/VolumeBooster-byMTHN)
